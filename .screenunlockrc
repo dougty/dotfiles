@@ -1,0 +1,1 @@
+/usr/bin/qdbus org.kde.kglobalaccel /component/plasmashell invokeShortcut "toggle do not disturb"

@@ -1,0 +1,7 @@
+ssh-add -D
+gpg-connect-agent reloadagent /bye
+
+/usr/bin/qdbus org.kde.kglobalaccel /component/plasmashell invokeShortcut "toggle do not disturb"
+
+#sleep 15
+#xset dpms force off

@@ -1,0 +1,35 @@
+{
+	"editor.acceptSuggestionOnCommitCharacter": false,
+	"editor.acceptSuggestionOnEnter": "off",
+	"editor.selectionClipboard": false,
+	"editor.dragAndDrop": false,
+
+	"editor.insertSpaces": false,
+	"files.insertFinalNewline": true,
+	"diffEditor.ignoreTrimWhitespace": false,
+
+	"extensions.ignoreRecommendations": true,
+	"telemetry.telemetryLevel": "off",
+	"workbench.enableExperiments": false,
+	"workbench.settings.enableNaturalLanguageSearch": false,
+
+	"window.menuBarVisibility": "toggle",
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.fontFamily": "'Source Code Pro'",
+	"editor.fontSize": 15,
+
+	"workbench.colorCustomizations": {
+		"editor.selectionHighlightBackground": "#424040",
+		"editor.lineHighlightBackground": "#242424",
+		"statusBar.background": "#252520",
+		"statusBar.noFolderBackground": "#252520",
+		"statusBar.debuggingBackground": "#252520",
+		"statusBar.foreground": "#777777",
+	},
+	
+	"git.enableSmartCommit": true,
+	"git.confirmSync": false,
+
+	"html.autoClosingTags": false,
+	"html.autoCreateQuotes": false,
+}
